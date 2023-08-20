@@ -57,16 +57,16 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    You can select a file or create a file.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    You can preview the whole file.
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
+                    You can add new keys, in an array or another dictionary.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Works on All Devices
+                    You can use dictionaries and arrays as containers.
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}

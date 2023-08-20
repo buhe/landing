@@ -44,7 +44,7 @@ const Footer = () => {
               Pagily{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              
+              Private Library{" "}
             </li>
           </ul>
         </div>
