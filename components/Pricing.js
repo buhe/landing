@@ -190,14 +190,14 @@ const Pricing = () => {
               >
                 <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                   <Image
-                    src="/assets/Free.png"
-                    width={145}
-                    height={165}
-                    alt="Free Plan"
+                    src="/assets/InvestDash.png"
+                    width={100}
+                    height={100}
+                    alt="InvestDash"
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Free Plan
+                  Invest Dash
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
@@ -234,14 +234,14 @@ const Pricing = () => {
               >
                 <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                   <Image
-                    src="/assets/Standard.png"
-                    width={145}
-                    height={165}
-                    alt="Standard Plan"
+                    src="/assets/PrivateLibrary.png"
+                    width={100}
+                    height={100}
+                    alt="PrivateLibrary"
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Standard Plan{" "}
+                  Private Library{" "}
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
@@ -281,14 +281,14 @@ const Pricing = () => {
               >
                 <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                   <Image
-                    src="/assets/Premium.png"
-                    width={145}
-                    height={165}
-                    alt="Premium Plan"
+                    src="/assets/AISummary.png"
+                    width={100}
+                    height={100}
+                    alt="AISummary"
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Premium Plan{" "}
+                  AI Summary{" "}
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
