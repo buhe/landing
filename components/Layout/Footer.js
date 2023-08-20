@@ -46,6 +46,15 @@ const Footer = () => {
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
               Private Library{" "}
             </li>
+            <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
+              AI Summary{" "}
+            </li>
+            <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
+              B 站 AI 总结{" "}
+            </li>
+            <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
+              帮你写作文{" "}
+            </li>
           </ul>
         </div>
         <div className="row-span-2 sm:col-span-2 sm:col-start-9 sm:col-end-11 flex flex-col">
