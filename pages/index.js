@@ -7,7 +7,7 @@ import SeoHead from "../components/SeoHead";
 export default function Home() {
   return (
     <>
-      <SeoHead title='Bugu Landing Page' />
+      <SeoHead title='Bugu Apps' />
       <Layout>
         <Hero />
         <Feature />
