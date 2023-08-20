@@ -47,14 +47,14 @@ const Pricing = () => {
               >
                 <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                   <Image
-                    src="/assets/Free.png"
-                    width={145}
-                    height={165}
-                    alt="Free Plan"
+                    src="/assets/Yamler.png"
+                    width={100}
+                    height={100}
+                    alt="Yamler"
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Free Plan
+                  Yamler
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
@@ -91,14 +91,14 @@ const Pricing = () => {
               >
               <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                 <Image
-                  src="/assets/Standard.png"
-                  width={145}
-                  height={165}
-                  alt="Standard Plan"
+                  src="/assets/CC.png"
+                  width={100}
+                  height={100}
+                  alt="Convict Conditioning Pro"
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Standard Plan{" "}
+                Convict Conditioning Pro{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
@@ -138,14 +138,14 @@ const Pricing = () => {
               >
               <div className="p-4 lg:p-0 mt-6 lg:mt-16">
                 <Image
-                  src="/assets/Premium.png"
-                  width={145}
-                  height={165}
-                  alt="Premium Plan"
+                  src="/assets/KubeCat.png"
+                  width={100}
+                  height={100}
+                  alt="KubeCat"
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Premium Plan{" "}
+                KubeCat{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
