@@ -101,19 +101,16 @@ const Pricing = () => {
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
+                  Recommend the next action with AI technology
                 </li>
                 <li className="relative check custom-list my-2">
-                  Encrypted Connection
+                    From Fitness coach Hare highly recommended Style tough, we need is to have the power of App!
                 </li>
                 <li className="relative check custom-list my-2">
-                  No Traffic Logs
+                    From Fitness coach James highly recommended When we talk about health , we actually talking about will.
                 </li>
                 <li className="relative check custom-list my-2">
-                  Works on All Devices
-                </li>
-                <li className="relative check custom-list my-2">
-                  Connect Anyware{" "}
+                    From Fitness coach teacher che highly recommended
                 </li>
               </ul>
               {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}
@@ -148,22 +145,16 @@ const Pricing = () => {
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
+                    Inspect logs of any containers in realtime!
                 </li>
                 <li className="relative check custom-list my-2">
-                  Encrypted Connection
+                    View / Update almost any resources via YAML.
                 </li>
                 <li className="relative check custom-list my-2">
-                  No Traffic Logs
+                    Support managing multiple clusters.
                 </li>
                 <li className="relative check custom-list my-2">
-                  Works on All Devices
-                </li>
-                <li className="relative check custom-list my-2">
-                  Connect Anyware{" "}
-                </li>
-                <li className="relative check custom-list my-2">
-                  Get New Features{" "}
+                    Supported authentication providers, Kube Config, AWS IAM Authenticator (EKS), Aliyun etc.
                 </li>
               </ul>
               {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
@@ -201,16 +192,22 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    All assets at a glance.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    Analyze your assets using the classic algorithm of 100 minus age.
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
+                    Trends in Individual Assets.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Works on All Devices
+                    Automatically calculate exchange rates for assets, Units of individual assets can be different from the total.
+                  </li>
+                  <li className="relative check custom-list my-2">
+                    Trends in the amount of assets and the amount of each type of asset.
+                  </li>
+                  <li className="relative check custom-list my-2">
+                    Export asset details as a file, protecting your data with biometrics.
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}
@@ -245,19 +242,22 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    You can browse the eBook in Calibre.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    Monitor the health status of Calibre content services in real time.
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
+                    You can sort e-books based on different criteria.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Works on All Devices
+                    View the details of the eBook.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Connect Anyware{" "}
+                    Different libraries can be switched, just like a real bookshelf.
+                  </li>
+                  <li className="relative check custom-list my-2">
+                    You can switch between different content servers.
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}
