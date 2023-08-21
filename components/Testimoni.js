@@ -10,41 +10,41 @@ import ArrowNext from "../public/assets/Icon/eva_arrow-next-fill.svg";
 const Testimoni = ({
   listTestimoni = [
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      name: "AppJunkie420",
+      image: "/assets/people-1.png",
+      city: "New York",
+      country: "United States",
+      rating: "4.8",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Yamler is an excellent app for tracking and managing personal finances. I have been using it for a few months now, and it has completely transformed the way I handle my money. The app's user-friendly interface makes it easy to input expenses and monitor budgets. It also provides detailed reports and visualizations, allowing me to analyze my spending habits and plan for the future. One of my favorite features is the ability to set financial goals and track my progress towards them. Overall, Yamler has helped me become more mindful of my finances and stay on top of my money goals. I highly recommend giving it a try!",
     },
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      name: "InvestingNinja",
+      image: "/assets/people-2.png",
+      city: "Paris",
+      country: "France",
+      rating: "4.4",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "InvestDash is a must-have app for anyone interested in tracking their investments and staying updated on the stock market. As an avid investor, I rely on this app to provide real-time market data, news, and portfolio analysis. The app's intuitive interface makes it easy to monitor my investments, set up watchlists, and receive personalized alerts. I also appreciate the app's comprehensive financial news section, which keeps me informed about market trends and helps me make informed investment decisions. InvestDash is a game-changer for any investor, and I cannot imagine managing my portfolio without it.",
     },
     {
-      name: "iezh Robert",
+      name: "CatLover23",
       image: "/assets/people-3.png",
       city: "Warsaw",
       country: "Poland",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "KubeCat is a delightful app that brings the joy and cuteness of cats directly to your smartphone. As a cat lover, I couldn't resist downloading this app, and it has exceeded my expectations. KubeCat offers a large collection of high-quality cat photos, gifs, and videos that never fails to put a smile on my face. I also love the app's built-in cat soundboard, which allows me to play various cat sounds and entertain my own furry friends. The app's sleek design and easy navigation make it a pleasure to use. If you need a dose of cat cuteness in your life, KubeCat is the purr-fect app for you!",
     },
-    {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
-      testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-    },
+    // {
+    //   name: "iezh Robert",
+    //   image: "/assets/people-3.png",
+    //   city: "Warsaw",
+    //   country: "Poland",
+    //   rating: "4.5",
+    //   testimoni:
+    //     "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+    // },
   ],
 }) => {
   const settings = {
