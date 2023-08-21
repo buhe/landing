@@ -292,22 +292,13 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    Summarize the gist of the YouTube video 
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    Automatically added to the list
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Works on All Devices
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Connect Anyware{" "}
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Get New Features{" "}
+                    Favorite and view the list of favorites
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
@@ -341,20 +332,17 @@ const Pricing = () => {
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Pagily
+                  AI Pagily
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    Summarize the content of the Web Page
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    Automatically added to the list
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Works on All Devices
+                    Favorite and view the list of favorites
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}
@@ -389,19 +377,16 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    总结哔哩哔哩视频的要点
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    自动添加到列表中
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
+                    收藏和查看收藏夹列表
                   </li>
                   <li className="relative check custom-list my-2">
-                    Works on All Devices
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Connect Anyware{" "}
+                    分享视频和摘要
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12"> */}
@@ -436,22 +421,13 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                    通过图片自动识别题目（拍试卷/图片库中保存的图片）
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                    同时支持生成中文/英文作文
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Works on All Devices
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Connect Anyware{" "}
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Get New Features{" "}
+                    满足题目要求的字数
                   </li>
                 </ul>
                 {/* <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
