@@ -67,7 +67,7 @@ const Footer = () => {
               FAQ{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              Tutorials{" "}
+              Support{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
               About Us{" "}
