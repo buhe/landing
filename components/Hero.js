@@ -37,7 +37,7 @@ const Hero = ({
             variants={scrollAnimation}>
             <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
               <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-              <strong>Bugu: </strong>A company that makes iOS apps.
+              <strong>Bugu: </strong>A company that makes <i>iOS</i> apps.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
                 We do all kinds of iOS apps, and the same thing is that her mother has AI features.
