@@ -40,7 +40,7 @@ const Hero = ({
               <strong>Bugu: </strong>A company that makes <i>iOS</i> AI apps.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
-                We do all kinds of iOS apps, and the same thing is that her mother has AI features.
+                We do iOS apps with AI features.
               </p>
             <ButtonPrimary>Detailed</ButtonPrimary>
             </div>
